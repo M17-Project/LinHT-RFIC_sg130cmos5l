@@ -1,7 +1,7 @@
-# LinHT-RFIC_sg130cmos5l
-## N-Fractional PLL: Phase and Frequency Detector Specification   
+# LinHT-RFIC M17 Project
+## N-Fractional PLL - Phase and Frequency Detector (PFD) Specification 
 
-# PFD Specification
+### Preliminary Specification
 
 | # | Specification / Design Parameter | Value |
 |---:|---|---|
